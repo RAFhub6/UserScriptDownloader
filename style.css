@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: monospace;
+}
+code {
+  border: none;
+  background-color: #f0f0f0;
+  color: black;
+  padding-top: 12px;
+  padding-left: 45px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  border-radius: 4px;
+  position: absolute;
+  width: 550px;
+}
